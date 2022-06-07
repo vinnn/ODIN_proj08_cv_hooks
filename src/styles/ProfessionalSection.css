@@ -1,0 +1,75 @@
+* {
+  /* border: 1px solid blue; */
+}
+
+.div-professional {
+  border-top: 3px solid black;
+  background-color: rgb(225, 225, 248);
+}
+.div-item {
+  border: 1px solid blue;
+}
+
+/* ########################## */
+/* HEADER */
+/* ########################## */
+.header-professional {
+  display: flex;
+
+}
+.title {
+  font-size: 1.4rem;
+  font-weight: 800;
+
+  margin: 0.5rem 2rem 0.5rem 1rem;
+}
+.btn-add {
+  border-radius: 0.3rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+  font-size: 0.8rem;
+  font-weight: 600;
+
+  margin: 0.5rem 2rem 0.5rem auto;
+}
+
+
+/* ########################## */
+/* ITEM BLOCK */
+/* ########################## */
+.item {
+  display: flex;
+}
+.label {
+  width: 10rem;
+  min-width: 4rem;
+  padding-left: 3rem;
+}
+div.value {
+  flex: auto;
+
+}
+
+
+
+
+
+
+
+
+/* ########################## */
+/* DATA ROWS */
+/* ########################## */
+.row {
+  display: flex;
+}
+.label {
+  width: 10rem;
+  min-width: 4rem;
+  padding-left: 3rem;
+}
+div.value {
+  flex: auto;
+
+}
