@@ -1,15 +1,15 @@
 {
-  "main.css": "/ODIN_cv_hooks.git/static/css/main.361cd756.chunk.css",
-  "main.js": "/ODIN_cv_hooks.git/static/js/main.2f4fbbe1.chunk.js",
-  "main.js.map": "/ODIN_cv_hooks.git/static/js/main.2f4fbbe1.chunk.js.map",
-  "static/js/1.05a8e767.chunk.js": "/ODIN_cv_hooks.git/static/js/1.05a8e767.chunk.js",
-  "static/js/1.05a8e767.chunk.js.map": "/ODIN_cv_hooks.git/static/js/1.05a8e767.chunk.js.map",
-  "static/js/2.0c51a45b.chunk.js": "/ODIN_cv_hooks.git/static/js/2.0c51a45b.chunk.js",
-  "static/js/2.0c51a45b.chunk.js.map": "/ODIN_cv_hooks.git/static/js/2.0c51a45b.chunk.js.map",
-  "runtime~main.js": "/ODIN_cv_hooks.git/static/js/runtime~main.2c1db274.js",
-  "runtime~main.js.map": "/ODIN_cv_hooks.git/static/js/runtime~main.2c1db274.js.map",
-  "static/css/main.361cd756.chunk.css.map": "/ODIN_cv_hooks.git/static/css/main.361cd756.chunk.css.map",
-  "index.html": "/ODIN_cv_hooks.git/index.html",
-  "precache-manifest.2cebe31260cd36c200a6f763044ae8d8.js": "/ODIN_cv_hooks.git/precache-manifest.2cebe31260cd36c200a6f763044ae8d8.js",
-  "service-worker.js": "/ODIN_cv_hooks.git/service-worker.js"
+  "main.css": "/ODIN_cv_hooks/static/css/main.361cd756.chunk.css",
+  "main.js": "/ODIN_cv_hooks/static/js/main.2f4fbbe1.chunk.js",
+  "main.js.map": "/ODIN_cv_hooks/static/js/main.2f4fbbe1.chunk.js.map",
+  "static/js/1.05a8e767.chunk.js": "/ODIN_cv_hooks/static/js/1.05a8e767.chunk.js",
+  "static/js/1.05a8e767.chunk.js.map": "/ODIN_cv_hooks/static/js/1.05a8e767.chunk.js.map",
+  "static/js/2.0c51a45b.chunk.js": "/ODIN_cv_hooks/static/js/2.0c51a45b.chunk.js",
+  "static/js/2.0c51a45b.chunk.js.map": "/ODIN_cv_hooks/static/js/2.0c51a45b.chunk.js.map",
+  "runtime~main.js": "/ODIN_cv_hooks/static/js/runtime~main.96bd5b21.js",
+  "runtime~main.js.map": "/ODIN_cv_hooks/static/js/runtime~main.96bd5b21.js.map",
+  "static/css/main.361cd756.chunk.css.map": "/ODIN_cv_hooks/static/css/main.361cd756.chunk.css.map",
+  "index.html": "/ODIN_cv_hooks/index.html",
+  "precache-manifest.9c1d26595519dbe2841881516ce770f6.js": "/ODIN_cv_hooks/precache-manifest.9c1d26595519dbe2841881516ce770f6.js",
+  "service-worker.js": "/ODIN_cv_hooks/service-worker.js"
 }
