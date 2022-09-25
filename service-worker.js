@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ODIN_cv_hooks/precache-manifest.9c1d26595519dbe2841881516ce770f6.js"
+  "/ODIN_proj08_cv_hooks/precache-manifest.ea12c3e0f11b24aa789e05105722faf7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ODIN_cv_hooks/index.html", {
+workbox.routing.registerNavigationRoute("/ODIN_proj08_cv_hooks/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
