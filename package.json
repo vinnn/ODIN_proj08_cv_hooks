@@ -12,7 +12,7 @@
     "uniqid": "^5.4.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://vinnn.github.io/ODIN_cv_hooks",
+  "homepage": "http://vinnn.github.io/ODIN_proj08_cv_hooks",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
